@@ -10,3 +10,6 @@
 6. 用户名更改
 7. 超时强踢
 8. 客户端实现
+
+go build server.go main.go user.go
+go build client.go
